@@ -20,13 +20,13 @@
 
 ## 2022
 
-[Low-Complexity Deep Convolutional Neural Networks on Fully Homomorphic Encryption Using Multiplexed Parallel Convolutions](https://icml.cc/virtual/2022/poster/17801) (ICML)
-[HEMET: A Homomorphic-Encryption-Friendly Privacy-Preserving Mobile Neural Network Architecture](https://icml.cc/virtual/2021/poster/10389) (ICML)
-[CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph Convolutional Network Inference](https://openreview.net/pdf?id=VeQBBm1MmTZ) (NeurIPS) [source code](https://github.com/RasoulAM/private-decision-tree-evaluation)
-[ZeeStar - Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs](https://files.sri.inf.ethz.ch/website/papers/sp22-zeestar.pdf) (S&P)
+* [Low-Complexity Deep Convolutional Neural Networks on Fully Homomorphic Encryption Using Multiplexed Parallel Convolutions](https://icml.cc/virtual/2022/poster/17801) (ICML)
+* [HEMET: A Homomorphic-Encryption-Friendly Privacy-Preserving Mobile Neural Network Architecture](https://icml.cc/virtual/2021/poster/10389) (ICML)
+* [CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph Convolutional Network Inference](https://openreview.net/pdf?id=VeQBBm1MmTZ) (NeurIPS) [source code](https://github.com/RasoulAM/private-decision-tree-evaluation)
+* [ZeeStar - Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs](https://files.sri.inf.ethz.ch/website/papers/sp22-zeestar.pdf) (S&P)
 
 ## 2021
 
-[Homomorphic Sensing: Sparsity and Noise](https://icml.cc/virtual/2021/poster/8505) (ICML)
-[Compressed Oblivious Encoding for Homomorphically Encrypted Search](https://eprint.iacr.org/2021/1199.pdf) (CCS)
-[SoK - Fully Homomorphic Encryption Compilers](https://ieeexplore.ieee.org/document/9519484) (S&P)
+* [Homomorphic Sensing: Sparsity and Noise](https://icml.cc/virtual/2021/poster/8505) (ICML)
+* [Compressed Oblivious Encoding for Homomorphically Encrypted Search](https://eprint.iacr.org/2021/1199.pdf) (CCS)
+* [SoK - Fully Homomorphic Encryption Compilers](https://ieeexplore.ieee.org/document/9519484) (S&P)
