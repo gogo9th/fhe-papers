@@ -1,4 +1,4 @@
-# Recent Top-tier Conference Papers on FHE and MPC
+# Top-tier Conference Papers on FHE and MPC
 
 
 ## Application of Fully Homomorphic Encryption (FHE)
