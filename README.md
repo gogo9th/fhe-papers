@@ -7,7 +7,7 @@
 - <u>Programming Language</u>: PLDI, OPPSLA 
 
 
-## [AREA] Application of Fully Homomorphic Encryption (FHE)
+## Area: Application of Fully Homomorphic Encryption (FHE)
 
 
 ### 2024
@@ -44,7 +44,7 @@
 * [Porcupine: A Synthesizing Compiler for Vectorized Homomorphic Encryption](https://www.arxiv.org/abs/2101.07841) (PLDI)
 
 
-## [AREA] Multi-party Computation (MPC) 
+## Area: Multi-party Computation (MPC) 
 
 ### 2024
 
