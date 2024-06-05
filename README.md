@@ -1,14 +1,17 @@
-# Recent Top-tier Conference Papers on Application of Fully Homomorphic Encryption (FHE)
+# Recent Top-tier Conference Papers 
 
 
-## 2024
+## Application of Fully Homomorphic Encryption (FHE)
+
+
+### 2024
 
 * [Privacy-Preserving Embedding via Look-up Table Evaluation with Fully Homomorphic Encryption](https://icml.cc/virtual/2024/poster/33668) (ICML)
 * [Converting Transformers to Polynomial Form for Secure Inference Over Homomorphic Encryption](https://icml.cc/virtual/2024/poster/34811) (ICML)
 * [Key Recovery Attacks on Approximate Homomorphic Encryption with Non-Worst-Case Noise Flooding Countermeasures](https://www.usenix.org/conference/usenixsecurity24/presentation/guo) (SECURITY)
 * [A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption](https://people.csail.mit.edu/devadas/pubs/pldi24_fhelipe.pdf) (PLDI)
 
-## 2023
+### 2023
 
 * [HETAL: Efficient Privacy-preserving Transfer Learning with Homomorphic Encryption](https://icml.cc/virtual/2023/poster/24180) (ICML)
 * [SpENCNN: Orchestrating Encoding and Sparsity for Fast Homomorphically Encrypted Neural Network Inference](https://icml.cc/virtual/2023/poster/24295) (ICML)
@@ -20,14 +23,14 @@
 * [HE3DB - An Efficient and Elastic Encrypted Database Via Arithmetic-And-Logic Fully Homomorphic Encryption](https://eprint.iacr.org/2023/1446) (CCS)
 * [HEaaN.MLIR: An Optimizing Compiler for Fast Ring-Based Homomorphic Encryption](https://dl.acm.org/doi/abs/10.1145/3591228) (PLDI)
   
-## 2022
+### 2022
 
 * [Low-Complexity Deep Convolutional Neural Networks on Fully Homomorphic Encryption Using Multiplexed Parallel Convolutions](https://icml.cc/virtual/2022/poster/17801) (ICML)
 * [HEMET: A Homomorphic-Encryption-Friendly Privacy-Preserving Mobile Neural Network Architecture](https://icml.cc/virtual/2021/poster/10389) (ICML)
 * [CryptoGCN: Fast and Scalable Homomorphically Encrypted Graph Convolutional Network Inference](https://openreview.net/pdf?id=VeQBBm1MmTZ) (NeurIPS) [(source code)](https://github.com/RasoulAM/private-decision-tree-evaluation)
 * [ZeeStar - Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs](https://files.sri.inf.ethz.ch/website/papers/sp22-zeestar.pdf) (S&P)
 
-## 2021
+### 2021
 
 * [Homomorphic Sensing: Sparsity and Noise](https://icml.cc/virtual/2021/poster/8505) (ICML)
 * [Compressed Oblivious Encoding for Homomorphically Encrypted Search](https://eprint.iacr.org/2021/1199.pdf) (CCS)
@@ -35,8 +38,8 @@
 * [Porcupine: A Synthesizing Compiler for Vectorized Homomorphic Encryption](https://www.arxiv.org/abs/2101.07841) (PLDI)
 
 
-# Recent Top-tier Conference Papers on Multi-party Computation (MPC) 
+## Recent Top-tier Conference Papers on Multi-party Computation (MPC) 
 
-## 2024
+### 2024
 
 * [Fast and Private Inference of Deep Neural Networks by Co-designing Activation Functions](https://arxiv.org/abs/2306.08538) (SECURITY)
