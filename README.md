@@ -1,11 +1,11 @@
 # Top Research Papers on FHE and MPC
 
 ## Top-tier Conferences
-- <u>Security & Privacy</u>: S&P, SECURITY, NDSS, CCS
-- <u>Artifical Intelligence</u>: NeurIPS, ICML
-- <u>Operating Systems</u>: OSDI, SOSP
-- <u>Database Systemm</u>: SIGMOD, VLDB
-- <u>Programming Language</u>: PLDI, OPPSLA 
+- **Security & Privacy**: S&P, SECURITY, NDSS, CCS
+- **Artifical Intelligence**: NeurIPS, ICML
+- **Operating Systems**: OSDI, SOSP
+- **Database Systems**: SIGMOD, VLDB
+- **Programming Language**: PLDI, OPPSLA 
 
 
 ## Area: Application of Fully Homomorphic Encryption (FHE)
