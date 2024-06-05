@@ -38,7 +38,7 @@
 * [Porcupine: A Synthesizing Compiler for Vectorized Homomorphic Encryption](https://www.arxiv.org/abs/2101.07841) (PLDI)
 
 
-## Recent Top-tier Conference Papers on Multi-party Computation (MPC) 
+## Multi-party Computation (MPC) 
 
 ### 2024
 
