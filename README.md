@@ -1,9 +1,10 @@
 # Top Research Papers on FHE and MPC
 
 ## Top-tier Conferences
-- <u>Security</u>: CCS, NDSS, S&P, SECURITY
-- <u>AI</u>: NeurIPS, ICML
-- <u>OS</u>: OSDI, SOSP
+- <u>Security & Privacy</u>: S&P, SECURITY, NDSS, CCS
+- <u>Artifical Intelligence</u>: NeurIPS, ICML
+- <u>Operating Systems</u>: OSDI, SOSP
+- <u>Database Systemm</u>: SIGMOD, VLDB
 - <u>Programming Language</u>: PLDI, OPPSLA 
 
 
@@ -16,6 +17,7 @@
 * [Converting Transformers to Polynomial Form for Secure Inference Over Homomorphic Encryption](https://icml.cc/virtual/2024/poster/34811) (ICML)
 * [Key Recovery Attacks on Approximate Homomorphic Encryption with Non-Worst-Case Noise Flooding Countermeasures](https://www.usenix.org/conference/usenixsecurity24/presentation/guo) (SECURITY)
 * [A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption](https://people.csail.mit.edu/devadas/pubs/pldi24_fhelipe.pdf) (PLDI)
+* [Homomorphic Compression: Making Text Processing on Compression Unlimited](https://www.researchgate.net/publication/376470463_Homomorphic_Compression_Making_Text_Processing_on_Compression_Unlimited) (SIGMOD)
 
 ### 2023
 
@@ -28,6 +30,8 @@
 * [Fast Unbalanced Private Set Union from Fully Homomorphic Encryption](https://eprint.iacr.org/2022/653) (CCS)
 * [HE3DB - An Efficient and Elastic Encrypted Database Via Arithmetic-And-Logic Fully Homomorphic Encryption](https://eprint.iacr.org/2023/1446) (CCS)
 * [HEaaN.MLIR: An Optimizing Compiler for Fast Ring-Based Homomorphic Encryption](https://dl.acm.org/doi/abs/10.1145/3591228) (PLDI)
+* [HEDA: Multi-Attribute Unbounded Aggregation over Homomorphically Encrypted Database](https://www.vldb.org/pvldb/vol16/p601-gu.pdf) (VLDB)
+* [Toward Efficient Homomorphic Encryption for Outsourced Databases through Parallel Caching](https://arxiv.org/pdf/2306.04227) (SIGMOD)
   
 ### 2022
 
