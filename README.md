@@ -1,6 +1,6 @@
 # Top Research Papers on FHE and MPC
 
-## List of Top-tier Conferences
+## Top-tier Conferences
 - <u>Security</u>: CCS, NDSS, S&P, SECURITY
 - <u>AI</u>: NeurIPS, ICML
 - <u>OS</u>: OSDI, SOSP
