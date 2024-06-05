@@ -1,4 +1,4 @@
-# Recent Top-tier Papers on Application of Fully Homomorphic Encryption 
+# Recent Top-tier Conference Papers on Application of Fully Homomorphic Encryption 
 
 
 ## 2024
