@@ -19,7 +19,7 @@
 * [Fast Unbalanced Private Set Union from Fully Homomorphic Encryption](https://eprint.iacr.org/2022/653) (CCS)
 * [HE3DB - An Efficient and Elastic Encrypted Database Via Arithmetic-And-Logic Fully Homomorphic Encryption](https://eprint.iacr.org/2023/1446) (CCS)
 * [HEaaN.MLIR: An Optimizing Compiler for Fast Ring-Based Homomorphic Encryption](https://dl.acm.org/doi/abs/10.1145/3591228) (PLDI)
-* 
+  
 ## 2022
 
 * [Low-Complexity Deep Convolutional Neural Networks on Fully Homomorphic Encryption Using Multiplexed Parallel Convolutions](https://icml.cc/virtual/2022/poster/17801) (ICML)
