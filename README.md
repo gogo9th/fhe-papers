@@ -1,4 +1,4 @@
-# Recent Top-tier Conference Papers on Application of Fully Homomorphic Encryption 
+# Recent Top-tier Conference Papers on Application of Fully Homomorphic Encryption (FHE)
 
 
 ## 2024
@@ -30,3 +30,11 @@
 * [Homomorphic Sensing: Sparsity and Noise](https://icml.cc/virtual/2021/poster/8505) (ICML)
 * [Compressed Oblivious Encoding for Homomorphically Encrypted Search](https://eprint.iacr.org/2021/1199.pdf) (CCS)
 * [SoK - Fully Homomorphic Encryption Compilers](https://ieeexplore.ieee.org/document/9519484) (S&P)
+
+
+
+# Recent Top-tier Conference Papers on Multi-party Computation (MPC) 
+
+## 2024
+
+* [Fast and Private Inference of Deep Neural Networks by Co-designing Activation Functions](https://arxiv.org/abs/2306.08538)
