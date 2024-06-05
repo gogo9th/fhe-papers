@@ -5,7 +5,7 @@
 
 * [Privacy-Preserving Embedding via Look-up Table Evaluation with Fully Homomorphic Encryption](https://icml.cc/virtual/2024/poster/33668) (ICML)
 * [Converting Transformers to Polynomial Form for Secure Inference Over Homomorphic Encryption](https://icml.cc/virtual/2024/poster/34811) (ICML)
-* [Key Recovery Attacks on Approximate Homomorphic Encryption with Non-Worst-Case Noise Flooding Countermeasures](https://www.usenix.org/conference/usenixsecurity24/presentation/guo) (USENIX SECURITY)
+* [Key Recovery Attacks on Approximate Homomorphic Encryption with Non-Worst-Case Noise Flooding Countermeasures](https://www.usenix.org/conference/usenixsecurity24/presentation/guo) (SECURITY)
 
 ## 2023
 
@@ -14,7 +14,7 @@
 * [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://arxiv.org/pdf/2309.14331.pdf) (NeurIPS) [(source code)](https://github.com/RasoulAM/private-decision-tree-evaluation)
 * [Level Up: Private Non-Interactive Decision Tree Evaluation using Leveled Homomorphic Encryption](https://openreview.net/pdf?id=VeQBBm1MmTZ) (CCS) [(source code)](https://github.com/RasoulAM/private-decision-tree-evaluation)
 * [HECO: Fully Homomorphic Encryption Compiler](https://www.usenix.org/conference/usenixsecurity23/presentation/viand) (USENIX SECURITY) [(source code)](https://github.com/MarbleHE/HECO)
-* [ELASM - Error-Latency-Aware Scale Management for Fully Homomorphic Encryption](https://www.usenix.org/system/files/sec23fall-prepub-147-lee-yongwoo.pdf) (USENIX SECURITY)
+* [ELASM - Error-Latency-Aware Scale Management for Fully Homomorphic Encryption](https://www.usenix.org/system/files/sec23fall-prepub-147-lee-yongwoo.pdf) (SECURITY)
 * [Fast Unbalanced Private Set Union from Fully Homomorphic Encryption](https://eprint.iacr.org/2022/653) (CCS)
 * [HE3DB - An Efficient and Elastic Encrypted Database Via Arithmetic-And-Logic Fully Homomorphic Encryption](https://eprint.iacr.org/2023/1446) (CCS)
 
@@ -37,4 +37,4 @@
 
 ## 2024
 
-* [Fast and Private Inference of Deep Neural Networks by Co-designing Activation Functions](https://arxiv.org/abs/2306.08538)
+* [Fast and Private Inference of Deep Neural Networks by Co-designing Activation Functions](https://arxiv.org/abs/2306.08538) (SECURITY)
