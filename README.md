@@ -31,7 +31,7 @@
 * [HE3DB - An Efficient and Elastic Encrypted Database Via Arithmetic-And-Logic Fully Homomorphic Encryption](https://eprint.iacr.org/2023/1446) (CCS)
 * [HEaaN.MLIR: An Optimizing Compiler for Fast Ring-Based Homomorphic Encryption](https://dl.acm.org/doi/abs/10.1145/3591228) (PLDI)
 * [HEDA: Multi-Attribute Unbounded Aggregation over Homomorphically Encrypted Database](https://www.vldb.org/pvldb/vol16/p601-gu.pdf) (VLDB)
-* [Toward Efficient Homomorphic Encryption for Outsourced Databases through Parallel Caching](https://arxiv.org/pdf/2306.04227) (SIGMOD)
+* [Toward Efficient Homomorphic Encryption for Outsourced Databases through Parallel Caching](https://arxiv.org/pdf/2306.04227](https://par.nsf.gov/servlets/purl/10501941) (SIGMOD)
   
 ### 2022
 
