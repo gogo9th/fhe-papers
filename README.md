@@ -18,7 +18,7 @@
 * [Key Recovery Attacks on Approximate Homomorphic Encryption with Non-Worst-Case Noise Flooding Countermeasures](https://www.usenix.org/conference/usenixsecurity24/presentation/guo) (SECURITY)
 * [A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption](https://people.csail.mit.edu/devadas/pubs/pldi24_fhelipe.pdf) (PLDI)
 * [Homomorphic Compression: Making Text Processing on Compression Unlimited](https://www.researchgate.net/publication/376470463_Homomorphic_Compression_Making_Text_Processing_on_Compression_Unlimited) (SIGMOD)
-* [HEIR: A Unified Representation for Cross-Scheme Compilation of Fully Homomorphic Computation](https://www.ndss-symposium.org/wp-content/uploads/2024-67-paper.pdf)(NDSS)
+* [HEIR: A Unified Representation for Cross-Scheme Compilation of Fully Homomorphic Computation](https://www.ndss-symposium.org/wp-content/uploads/2024-67-paper.pdf) (NDSS)
 * [Homomorphic_Compression_Making_Text_Processing_on_Compression_Unlimited](https://www.researchgate.net/publication/376470463_Homomorphic_Compression_Making_Text_Processing_on_Compression_Unlimited) (SIGMOD)
 
 ### 2023
