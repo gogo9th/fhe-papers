@@ -19,6 +19,13 @@
 * [A Tensor Compiler with Automatic Data Packing for Simple and Efficient Fully Homomorphic Encryption](https://people.csail.mit.edu/devadas/pubs/pldi24_fhelipe.pdf) (PLDI)
 * [Homomorphic Compression: Making Text Processing on Compression Unlimited](https://www.researchgate.net/publication/376470463_Homomorphic_Compression_Making_Text_Processing_on_Compression_Unlimited) (SIGMOD)
 * [HEIR: A Unified Representation for Cross-Scheme Compilation of Fully Homomorphic Computation](https://www.ndss-symposium.org/wp-content/uploads/2024-67-paper.pdf) (NDSS)
+* VERITAS: Plaintext Encoders for Practical Verifiable Homomorphic Encryption (CCS)
+* Fast and Accurate Homomorphic Softmax Evaluation (CCS)
+* ArcEDB: An Arbitrary-Precision Encrypted Database via (Amortized) Modular Homomorphic Encryption (CCS)
+* Two-Tier Data Packing in RLWE-based Homomorphic Encryption for Secure Federated Learning (CCS)
+* DPad-HE: Towards Hardware-friendly Homomorphic Evaluation using 4-Directional Manipulation (CCS)
+* Rhombus: Fast Homomorphic Matrix-Vector Multiplication for Secure Two-Party Inference (CCS)
+* ThorPIR: Single Server PIR via Homomorphic Thorp Shuffles (CCS)
 
 ### 2023
 
